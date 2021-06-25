@@ -1,4 +1,4 @@
-#The Miserables
+# The Miserables
 
 Hackathon project to develop an app or video game within 48h.
 
